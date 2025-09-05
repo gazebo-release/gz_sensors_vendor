@@ -2,6 +2,11 @@
 Changelog for package gz_sensors_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 9.2.0 (`#7 <https://github.com/gazebo-release/gz_sensors_vendor/issues/7>`_)
+* Contributors: Jose Luis Rivero
+
 0.2.1 (2025-02-19)
 ------------------
 * Bump version to 9.1.0 (`#6 <https://github.com/gazebo-release/gz_sensors_vendor/issues/6>`_)
