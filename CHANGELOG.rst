@@ -2,6 +2,11 @@
 Changelog for package gz_sensors_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 10.0.1 (`#12 <https://github.com/gazebo-release/gz_sensors_vendor/issues/12>`_)
+* Contributors: Ian Chen
+
 0.3.1 (2025-10-01)
 ------------------
 * Merge pull request `#11 <https://github.com/gazebo-release/gz_sensors_vendor/issues/11>`_ from gazebo-release/releasepy/rolling/10.0.0
