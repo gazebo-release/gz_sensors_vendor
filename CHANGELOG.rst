@@ -2,8 +2,8 @@
 Changelog for package gz_sensors_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.4 (2026-08-31)
+------------------
 * Enable Python bindings (`#18 <https://github.com/gazebo-release/gz_sensors_vendor/issues/18>`_)
 * Contributors: Addisu Z. Taddese
 
