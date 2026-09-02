@@ -2,8 +2,8 @@
 Changelog for package gz_sensors_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.5 (2026-09-02)
+------------------
 * Bump version to 10.1.1 (`#19 <https://github.com/gazebo-release/gz_sensors_vendor/issues/19>`_)
 * Contributors: Addisu Z. Taddese
 
