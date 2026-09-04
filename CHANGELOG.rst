@@ -2,8 +2,8 @@
 Changelog for package gz_sensors_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.5 (2026-09-04)
+------------------
 * Revert "Enable Python bindings (`#18 <https://github.com/gazebo-release/gz_sensors_vendor/issues/18>`_)" (`#21 <https://github.com/gazebo-release/gz_sensors_vendor/issues/21>`_)
   * Revert "Enable Python bindings (`#18 <https://github.com/gazebo-release/gz_sensors_vendor/issues/18>`_)"
   This reverts commit d7145c7eef7082ff3df5b60509a812ded9d22975.
